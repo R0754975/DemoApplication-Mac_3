@@ -19,7 +19,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 TextView mijntextview = findViewById(R.id.mijntextview);
-                mijntextview.setText("Hallo Tim");
+                mijntextview.setText("Hallo Tim 2");
             }
         });
 
